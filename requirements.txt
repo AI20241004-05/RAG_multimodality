@@ -1,0 +1,16 @@
+fitz==0.0.1.dev2
+langchain==0.3.21
+langchain_chroma==0.2.2
+langchain_community==0.3.20
+langchain_huggingface==0.1.2
+langchain_openai==0.3.10
+langchain_unstructured==0.1.6
+Pillow==11.1.0
+pytesseract==0.3.13
+python_docx==1.1.2
+python_pptx==1.0.2
+pywin32==308
+sentence_transformers==3.4.1
+SpeechRecognition==3.14.1
+streamlit==1.42.2
+torch==2.6.0+cu124
