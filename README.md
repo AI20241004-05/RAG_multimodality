@@ -1,5 +1,5 @@
-chroma-D-all.py 清空chroma
-chroma-Query.py 列出chroma內容
+chroma-D-all.py 清空chroma <br>
+chroma-Query.py 列出chroma內容 <br>
 Rag-multi.py  將檔案轉入chroma，chroma在程式目錄下的db
 Rag-Q-M.py     含來源和結果
 Rag-Q-M-2.py 含來源、token和結果
