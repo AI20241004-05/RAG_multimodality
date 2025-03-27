@@ -1,5 +1,7 @@
-chroma-D-all.py 清空chroma <br>
-chroma-Query.py 列出chroma內容 <br>
+This system is based on the following material then adds functions<br>
+https://medium.com/@cch.chichieh/rag%E5%AF%A6%E4%BD%9C%E6%95%99%E5%AD%B8-streamlit-langchain-llama2-c7d1dac2494e <br>
+chroma-D-all.py #purge chroma <br>
+chroma-Query.py #lists chroma content <br>
 Rag-multi.py  將檔案轉入chroma，chroma在程式目錄下的db <br>
 Rag-Q-M.py     含來源和結果 <br>
 Rag-Q-M-2.py 含來源、token和結果 <br>
